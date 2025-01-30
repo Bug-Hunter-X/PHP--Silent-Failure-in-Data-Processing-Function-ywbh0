@@ -1,0 +1,2 @@
+# PHP: Silent Failure in Data Processing Function
+This repository demonstrates a common error in PHP where a data processing function silently ignores invalid data items instead of handling them gracefully.  The `processData` function demonstrates this issue, while the solution provides a more robust and error-tolerant approach.  The solution provides logging of these missing items, making debugging easier.
